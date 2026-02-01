@@ -1,0 +1,107 @@
+<!DOCTYPE html><html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rajput Unity | राजपूत एकता</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: #ffffff;
+    }
+    header {
+      background: linear-gradient(135deg, #7c2d12, #991b1b);
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 1.1rem;
+      opacity: 0.9;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .card {
+      background: #1e293b;
+      border-radius: 16px;
+      padding: 24px;
+      margin-bottom: 20px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+    }
+    .card h2 {
+      color: #fbbf24;
+      margin-bottom: 10px;
+    }
+    form input, form textarea {
+      width: 100%;
+      padding: 12px;
+      margin: 10px 0;
+      border-radius: 8px;
+      border: none;
+      outline: none;
+    }
+    form button {
+      background: #dc2626;
+      color: white;
+      padding: 14px;
+      width: 100%;
+      border: none;
+      border-radius: 10px;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+    form button:hover {
+      background: #b91c1c;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #020617;
+      opacity: 0.8;
+    }
+  </style>
+</head>
+<body>  <header>
+    <h1>🚩 राजपूत एकता मंच 🚩</h1>
+    <p>क्षत्रिय गौरव • एकता • स्वाभिमान</p>
+  </header>  <div style="text-align:center; padding:20px;">
+    <a href="https://wa.me/917060512585" target="_blank" style="display:inline-block; background:#25D366; color:white; padding:16px 24px; border-radius:50px; font-size:1.1rem; text-decoration:none; box-shadow:0 10px 20px rgba(0,0,0,0.4);">
+      📲 WhatsApp से राजपूत भाइयों से जुड़ें
+    </a>
+    <p style="margin-top:10px; opacity:0.8;">(सीधे इस नंबर पर जुड़ें – 7060512585)</p>
+  </div>  <section>
+    <div class="card">
+      <h2>हमारा उद्देश्य</h2>
+      <p>
+        यह वेबसाइट राजपूत भाइयों को एक-दूसरे से जोड़ने, 
+        समाज में एकता बढ़ाने और संस्कृति व स्वाभिमान को मजबूत करने के लिए बनाई गई है।
+      </p>
+    </div><div class="card">
+  <h2>राजपूत भाई जुड़ें</h2>
+  <form>
+    <input type="text" placeholder="पूरा नाम" required />
+    <input type="text" placeholder="गोत्र / वंश" />
+    <input type="text" placeholder="राज्य / जिला" />
+    <input type="tel" placeholder="मोबाइल नंबर" />
+    <textarea rows="4" placeholder="आप क्या योगदान देना चाहते हैं"></textarea>
+    <button type="submit">एकता से जुड़ें</button>
+  </form>
+</div>
+
+<div class="card">
+  <h2>संदेश</h2>
+  <p>"जब राजपूत एक होंगे, तब कोई शक्ति उन्हें झुका नहीं सकती।"</p>
+  <p style="margin-top:10px; color:#e5e7eb;">हमारा लक्ष्य: <strong>हर एक राजपूत भाई को एकत्रित करना</strong> और एक मजबूत मंच बनाना।</p>
+</div>
+
+  </section>  <footer>
+    <p>© 2026 Rajput Unity | जय भवानी • जय राजपूताना</p>
+  </footer></body>
+</html>
